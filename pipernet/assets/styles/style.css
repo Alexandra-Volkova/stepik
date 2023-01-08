@@ -35,7 +35,7 @@ nav {
 }
 
 header {
-    background-image: url(/assets/images/header.png);
+    background-image: url(/pipernet/assets/images/header.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -63,7 +63,7 @@ h2 {
 }
 
 .hero {
-    background-image: url(/assets/images/hero.png);
+    background-image: url(/pipernet/assets/images/hero.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
